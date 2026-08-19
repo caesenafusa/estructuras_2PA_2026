@@ -11,4 +11,6 @@ d1.solicitar_recurso(r2)
 d1.solicitar_recurso(r3)
 
 d1.recorrer_recursos()
-
+d1.asignar_estudio("pregrado","ingenieria de sistemas")
+d1.asignar_estudio("postgrado","inteligencia artificial")
+print(d1.estudios)
